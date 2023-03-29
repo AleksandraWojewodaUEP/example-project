@@ -8,7 +8,7 @@ h = 12
 obwod = a + b + c
 pole = int((h * a) / 2)
 
-print("Obwod trojkata wynosi " + str(obwod) + ", zas pole wynisi " + str(pole) + ".")
+print("Obwod trojkata wynosi " + str(obwod) + ", zas pole wynosi " + str(pole) + ".")
 
 # prostokat
 # TODO dla studenta
@@ -17,4 +17,7 @@ print("Obwod trojkata wynosi " + str(obwod) + ", zas pole wynisi " + str(pole) +
 # TODO dla studenta
 
 # trapez
+# TODO dla studenta
+
+# romb
 # TODO dla studenta
