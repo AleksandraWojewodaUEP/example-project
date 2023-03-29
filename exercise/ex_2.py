@@ -15,3 +15,6 @@ print("Obwod trojkata wynosi " + str(obwod) + ", zas pole wynisi " + str(pole) +
 
 # kolo
 # TODO dla studenta
+
+# trapez
+# TODO dla studenta
