@@ -9,7 +9,8 @@ obwod = a + b + c
 
 print("Pole trojkata wynosi " + str(pole) + ", a obwod wynosi " + str(obwod))
 
-
+# romb
+# TODO 
 
 
 
