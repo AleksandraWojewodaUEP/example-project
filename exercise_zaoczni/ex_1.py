@@ -1,5 +1,5 @@
 def hello(a: str) -> str:
-    # 
+    #
     return "Hello"
 
 
